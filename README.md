@@ -1,1 +1,3 @@
-# M-xico-Lindo
+# México-Lindo
+
+Proyecto con fines educativos
